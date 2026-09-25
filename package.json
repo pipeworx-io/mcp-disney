@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-disney",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Disney character database MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-676cd1bd05a0f1d9e1b31bac446cc8c0fb50ad7125c5c077ec8d2e60be28eebf",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-e93312bec0862ab29e4357e70db7c350382188663feffcdb4d2a8464ea96fc40",
+    "sourceCommit": "4fa4c64448be06f4a2ee4cee19f756f3558a7cad"
   }
 }
